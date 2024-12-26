@@ -1,0 +1,2 @@
+# xizo
+my first repository
